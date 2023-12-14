@@ -63,4 +63,4 @@ target coverage:
   with ncover_explorer():
     .toolPath = "${ncover_path}/NCoverExplorer.console.exe"
     .project = "Phantom"
-    .reportDirectory = "build/Coverage"
+    .reportDirectory = "build/Coverage" 
